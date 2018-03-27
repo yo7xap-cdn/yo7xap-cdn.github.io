@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://yo7xap-cdn.github.io/sitemap.xml
